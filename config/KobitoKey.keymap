@@ -28,11 +28,6 @@
     combos {
         compatible = "zmk,combos";
 
-        layer4_ESC {
-            bindings = <&lt 4 ESC>;
-            key-positions = <37 36>;
-        };
-
         tab {
             bindings = <&kp TAB>;
             key-positions = <1 2>;
